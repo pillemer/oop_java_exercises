@@ -1,8 +1,8 @@
 package com.techreturners.cats;
 
-public class DomesticCat extends AbstractCat {
-    private String setting = "domestic";
-    private int averageHeight = 23;
+public class LionCat extends AbstractCat {
+    private String setting = "wild";
+    private int averageHeight = 1100;
 
     public String getSetting() {
         return this.setting;
