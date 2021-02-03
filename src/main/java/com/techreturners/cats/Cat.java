@@ -6,4 +6,5 @@ interface Cat {
     public Boolean wakeUp();
     public String getSetting();
     public int getAverageHeight();
+    public String eat();
 }

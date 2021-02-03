@@ -22,4 +22,6 @@ abstract class AbstractCat implements Cat{
 
     abstract public int getAverageHeight();
 
+    abstract public String eat();
+
 }

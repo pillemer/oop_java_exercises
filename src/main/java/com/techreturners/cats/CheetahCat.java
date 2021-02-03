@@ -1,6 +1,6 @@
 package com.techreturners.cats;
 
-public class LionCat extends AbstractCat {
+public class CheetahCat extends AbstractCat {
     private String setting = "wild";
     private int averageHeight = 1100;
 
@@ -13,6 +13,6 @@ public class LionCat extends AbstractCat {
     }
 
     public String eat() {
-        return "Roar!!!!";
+        return "Zzzzzzz";
     }
 }
