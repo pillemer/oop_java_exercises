@@ -5,11 +5,11 @@ public class LionCat extends AbstractCat {
     private int averageHeight = 1100;
 
     public String getSetting() {
-        return this.setting;
+        return setting;
     }
 
     public int getAverageHeight() {
-        return this.averageHeight;
+        return averageHeight;
     }
 
     public String eat() {

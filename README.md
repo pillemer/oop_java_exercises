@@ -57,7 +57,3 @@ We've created the Cat interface to get you started
 * The usage of a Java abstract class
 
 * The usage of encapsulation, abstraction, polymorphism and inheritance
-
-
-
-
